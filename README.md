@@ -28,7 +28,7 @@ Titta på videon och testa själv: [Version control in Visual Studio Code](https
 
 1. Läs om filer här: [Dealing with files - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 2. Läs texten om HTML: [HTML basics - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-3. Är ni nya på HTML, eller behöver lite mer repetition, titta gärna igenom denna också så långt ni hinner: [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+3. Är ni nya på HTML, eller behöver lite mer repetition, titta gärna igenom denna också så långt ni hinner (ta den ni tycker känns tydligast för er): [MDN - Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) alt [W3Schools - HTML Tutorial](https://www.w3schools.com/html/default.asp)
 4. Gör övningarna fram t o m ”Title”: [HTML Exercises](https://www.w3schools.com/html/html_exercises.asp)
 (ni behöver inte ha alla rätt, men bra om ni kan en del, så använd tiden) 
 5. Läs texten om [CSS: CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
