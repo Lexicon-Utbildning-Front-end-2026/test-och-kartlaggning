@@ -54,6 +54,6 @@ Titta på och testa teknikerna som visas här (föredrar ni någon annan webblä
 
 Har du extra tid kan du arbeta vidare med någon av följande: 
 * Gör quiz för att se hur mycket ni kan: [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp), [CSS Quiz](https://www.w3schools.com/css/css_quiz.asp)
-* Testa dina kunskaper om CSS med [CSSBattle](https://cssbattle.dev/)
 * Skaffa konto på [https://www.frontendmentor.io/](https://www.frontendmentor.io/) och testa en challenge
+* Testa dina kunskaper om CSS med [CSSBattle](https://cssbattle.dev/)
 * Skapa ett konto på [https://open.kattis.com/](https://open.kattis.com/) och gör några övningar som t ex FizzBuzz. Använd Javascript med node.js som programmeringsspråk. 
