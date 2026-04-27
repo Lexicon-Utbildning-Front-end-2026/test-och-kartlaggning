@@ -27,13 +27,13 @@ Titta på videon och testa själv: [Version control in Visual Studio Code](https
 ## HTML & CSS 
 
 1. Läs om filer här: [Dealing with files - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
-2. Läs texten om HTML: [HTML basics - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) 
-(är ni nya på HTML, eller behöver lite repetition, titta gärna igenom denna också så långt ni hinner: [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)) 
-3. Gör övningarna fram t o m ”Title”: [HTML Exercises](https://www.w3schools.com/html/html_exercises.asp)
+2. Läs texten om HTML: [HTML basics - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+3. Är ni nya på HTML, eller behöver lite mer repetition, titta gärna igenom denna också så långt ni hinner: [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+4. Gör övningarna fram t o m ”Title”: [HTML Exercises](https://www.w3schools.com/html/html_exercises.asp)
 (ni behöver inte ha alla rätt, men bra om ni kan en del, så använd tiden) 
-4. Läs texten om [CSS: CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+5. Läs texten om [CSS: CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 (om ni vill läsa mer: [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)) 
-5. Gör övningar för CSS fram t o m ”Links”: [CSS Exercises](https://www.w3schools.com/css/css_exercises.asp)
+6. Gör övningar för CSS fram t o m ”Links”: [CSS Exercises](https://www.w3schools.com/css/css_exercises.asp)
 
 Extra om ni vill jobba vidare: [HTML & CSS for Absolute Beginners av Kevin Powell](https://www.youtube.com/playlist?list=PL4-IK0AVhVjOJs_UjdQeyEZ_cmEV3uJvx)
 
